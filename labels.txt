@@ -1,0 +1,2 @@
+0 Biodegradable
+1 Non-biodegradable
