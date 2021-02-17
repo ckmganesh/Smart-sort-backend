@@ -1,6 +1,4 @@
 
-import uvicorn
-from fastapi import FastAPI, File, UploadFile
 import numpy as np
 import pandas as pd
 from io import BytesIO
