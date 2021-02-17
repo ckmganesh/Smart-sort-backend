@@ -7,11 +7,6 @@ from io import BytesIO
 import tensorflow.keras
 import numpy as np
 from PIL import Image, ImageOps
-
-
-
-
-
 from flask import Flask, render_template, request
 import numpy as np
 from flask_cors import CORS, cross_origin
